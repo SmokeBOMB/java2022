@@ -18,6 +18,7 @@ public class Main {
 
 		System.out.println("Toplam = " + total);
 		System.out.println("En büyük = " + max);
+		
 	}
 
 }
